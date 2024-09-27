@@ -10,7 +10,7 @@ int main(){
     cout<<b<<endl;
     if(++a){            //in c++ non-zero value consider true     
         cout<<a<<endl;
-        cout<<b<<endl;;
+        cout<<b<<endl;
     }
     else{
         cout<<++b<<endl;
