@@ -12,7 +12,7 @@ public:
         }
 
         nums.clear();
-       // vector<int>result;
+        
         for(int i=0; i<ans.size(); i++){
             if(ans[i] == 2){
                 nums.push_back(i+1);
